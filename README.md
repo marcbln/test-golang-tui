@@ -1,6 +1,6 @@
 # Go TUI Evaluator
 
-A sandbox application to evaluate different Go TUI libraries (Bubbletea, Tview, Vaxis) displaying a shared mocked dashboard service.
+A sandbox application to evaluate different Go TUI libraries (Bubbletea, Tview, Vaxis, PTerm) displaying a shared mocked dashboard service.
 
 ## Usage
 
@@ -14,6 +14,7 @@ Run the different frontends:
 ./myapp bubbletea
 ./myapp tview
 ./myapp vaxis
+./myapp pterm
 ```
 
 ## Architecture
